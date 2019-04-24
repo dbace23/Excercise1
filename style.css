@@ -1,0 +1,24 @@
+.jumbotron {
+  background-image: url("asset/background.jpg");
+  background-size: cover;
+}
+
+.container.menu {
+  padding-top: 50px;
+}
+
+img.prof {
+  transform: scale(0.7, 0.7);
+}
+
+h4.nama {
+  padding-top: 90px;
+}
+
+h6.right {
+  padding-top: 90px;
+}
+
+div.jumbotron.text-center {
+  margin-bottom: 0px;
+}
